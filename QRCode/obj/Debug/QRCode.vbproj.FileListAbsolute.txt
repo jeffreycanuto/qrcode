@@ -1,0 +1,17 @@
+C:\Users\NCAP\source\repos\QRCode\QRCode\bin\Debug\QRCode.exe.config
+C:\Users\NCAP\source\repos\QRCode\QRCode\bin\Debug\QRCode.exe
+C:\Users\NCAP\source\repos\QRCode\QRCode\bin\Debug\QRCode.pdb
+C:\Users\NCAP\source\repos\QRCode\QRCode\bin\Debug\QRCode.xml
+C:\Users\NCAP\source\repos\QRCode\QRCode\bin\Debug\QRCoder.dll
+C:\Users\NCAP\source\repos\QRCode\QRCode\bin\Debug\System.Drawing.Common.dll
+C:\Users\NCAP\source\repos\QRCode\QRCode\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\NCAP\source\repos\QRCode\QRCode\bin\Debug\UnityEngine.dll
+C:\Users\NCAP\source\repos\QRCode\QRCode\obj\Debug\QRCode.vbprojAssemblyReference.cache
+C:\Users\NCAP\source\repos\QRCode\QRCode\obj\Debug\QRCode.Form1.resources
+C:\Users\NCAP\source\repos\QRCode\QRCode\obj\Debug\QRCode.Resources.resources
+C:\Users\NCAP\source\repos\QRCode\QRCode\obj\Debug\QRCode.vbproj.GenerateResource.cache
+C:\Users\NCAP\source\repos\QRCode\QRCode\obj\Debug\QRCode.vbproj.CoreCompileInputs.cache
+C:\Users\NCAP\source\repos\QRCode\QRCode\obj\Debug\QRCode.vbproj.CopyComplete
+C:\Users\NCAP\source\repos\QRCode\QRCode\obj\Debug\QRCode.exe
+C:\Users\NCAP\source\repos\QRCode\QRCode\obj\Debug\QRCode.xml
+C:\Users\NCAP\source\repos\QRCode\QRCode\obj\Debug\QRCode.pdb
